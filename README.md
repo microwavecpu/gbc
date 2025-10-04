@@ -24,5 +24,5 @@
     * [12:00 Comp1238 - Intro to Data Management](https://learn.georgebrown.ca/d2l/home/412494)
     * [15:00 Comp1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/408347)
   * ### Asynchronous
-    * [N/A Comm2000 - Communicating across contexts](https://learn.georgebrown.ca/d2l/home/419814)
+    * [Comm2000 - Communicating across contexts](https://learn.georgebrown.ca/d2l/home/419814)
   
